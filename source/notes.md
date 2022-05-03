@@ -1,0 +1,4 @@
+-- Notes
+-- playdate has no draw loop, only update
+-- playdata screen is 400x240
+-- (0,0) top left
